@@ -18,7 +18,7 @@ Alternatively, you can use a Driver Update Tool such as DriverDownloader to upda
 ## How to locate the right Driver on HP’s website?
 
 * To download a HP Driver from HP’s website you will need to follow these steps:
-* Log on to http://www8.hp.com/us/en/support-drivers.html
+* Log on to hp drivers
 * Enter your product name/number in the Search box under Drivers & Software, and then click the Search button
 * Select your Windows operating system version from the drop-down menu, and then press the Next button
 * All the drivers and software available for the product and your Windows system will be displayed.
